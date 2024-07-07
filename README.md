@@ -1,7 +1,7 @@
--->## Hi there 👋
+## Hi there 👋
 
 # 💫 About Me:
-- 🔭 A passionate Learner and Tech Enthusiast from India. <br> <t>I am currently pursuing my Bachelor in Technology(B. Tech) in Information Technology(IT) from Indian Institute of Information Technology,Lucknow (IIITL).<br>- 🌱 I’m currently learning Web3 and DevOps.<br>- 💬 Ask me about frontend and backend development.<br>- 📫 How to reach me pr.agarwal2005@gmail.com<br>- ⚡ Fun fact I am very friendly.
+- 🔭 A passionate Learner and Tech Enthusiast from India. <br> <t><t>I am currently pursuing my Bachelor in Technology(B. Tech) in Information Technology(IT) from Indian Institute of Information Technology,Lucknow (IIITL).<br>- 🌱 I’m currently learning Web3 and DevOps.<br>- 💬 Ask me about frontend and backend development.<br>- 📫 How to reach me pr.agarwal2005@gmail.com<br>- ⚡ Fun fact I am very friendly.
 
 
 ## 🌐 Socials:
