@@ -1,5 +1,7 @@
+-->## Hi there 👋
+
 # 💫 About Me:
-- 🔭 A passionate Learner and Tech Enthusiast from India. <br>         I am currently pursuing my Bachelor in Technology(B. Tech) in Information Technology(IT) from Indian Institute of Information Technology,Lucknow (IIITL).<br>- 🌱 I’m currently learning Web3 and DevOps.<br>- 💬 Ask me about frontend and backend development.<br>- 📫 How to reach me pr.agarwal2005@gmail.com<br>- ⚡ Fun fact I am very friendly.
+- 🔭 A passionate Learner and Tech Enthusiast from India. <br> <t>I am currently pursuing my Bachelor in Technology(B. Tech) in Information Technology(IT) from Indian Institute of Information Technology,Lucknow (IIITL).<br>- 🌱 I’m currently learning Web3 and DevOps.<br>- 💬 Ask me about frontend and backend development.<br>- 📫 How to reach me pr.agarwal2005@gmail.com<br>- ⚡ Fun fact I am very friendly.
 
 
 ## 🌐 Socials:
@@ -20,8 +22,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Priyanshu-2005&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
 **Priyanshu-2005/Priyanshu-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
