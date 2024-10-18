@@ -65,9 +65,7 @@
 [![](https://visitcount.itsvg.in/api?id=Priyanshu-2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
-![Holopin](https://holopin.onrender.com/priyanshu2005?style=flat-square)
-[![@priyanshu2005's Holopin board] (https://holopin.io/api/user/board?user=priyanshu2005)]
+[![An image of @priyanshu2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu2005)](https://holopin.io/@priyanshu2005)
 <!--
 **Priyanshu-2005/Priyanshu-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
