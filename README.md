@@ -2,7 +2,7 @@
 # 💫 About Me:
 <img align="center" src="https://camo.githubusercontent.com/a6c792917f20519d382e1d73d6efde115c7d3b798cbf16f146ceab907c52eb4d/68747470733a2f2f7777772e616e696d616170702e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30372f64657369676e65726769662e676966" alt="coding" /> 
 - 🔭 A passionate Learner and Tech Enthusiast from India. <br>
-- 🏫 I am currently pursuing my Bachelor in Technology(B. Tech) in **Information Technology(IT)** from **Indian Institute of Information Technology,Lucknow (IIITL)**.<br>
+<!--- 🏫 I am currently pursuing my Bachelor in Technology(B. Tech) in **Information Technology(IT)** from **Indian Institute of Information Technology,Lucknow (IIITL)**.<br>-->
 - 🌱 I’m currently learning Web3, DevOps etc.<br>
 - 💬 Ask me about frontend and backend development.<br>
 - 📫 How to reach me pr.agarwal2005@gmail.com<br>
@@ -12,7 +12,7 @@
 <br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-agarwal10/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pr.agarwal2005) 
+<!--[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pr.agarwal2005) -->
 
 <br><br>
 # 💻 Tech Stack:
@@ -64,6 +64,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Priyanshu-2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+![Holopin](https://holopin.onrender.com/priyanshu2005?style=flat-square)
 <!--
 **Priyanshu-2005/Priyanshu-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
