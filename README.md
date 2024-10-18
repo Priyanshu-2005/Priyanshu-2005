@@ -67,6 +67,7 @@
 
 
 ![Holopin](https://holopin.onrender.com/priyanshu2005?style=flat-square)
+[![@priyanshu2005's Holopin board] (https://holopin.io/api/user/board?user=priyanshu2005)]
 <!--
 **Priyanshu-2005/Priyanshu-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
