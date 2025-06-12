@@ -1,12 +1,7 @@
 
 # 💫 About Me:
 
-- 🔭 A passionate Learner and Tech Enthusiast from India. <br>
-<!--- 🏫 I am currently pursuing my Bachelor in Technology(B. Tech) in **Information Technology(IT)** from **Indian Institute of Information Technology,Lucknow (IIITL)**.<br>-->
-- 🌱 I’m currently learning Development.<br>
-<!--- - 💬 Ask me about frontend and backend development.<br> --->
-- 📫 How to reach me pr.agarwal2005@gmail.com<br>
-- ⚡ Fun fact I am very friendly.
+Hi there! 👋 myself Priyanshu Agarwal . I have strong interest in building practical, real-world solutions. I work mainly with React, Node.js, and Spring Boot, and enjoy exploring system design, backend performance, and clean architecture. Currently focused on full-stack projects that solve meaningful problems. Always learning, improving, and collaborating.
 
 
 <br><br>
